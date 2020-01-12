@@ -18,5 +18,6 @@ Other places where this has been discussed:
 * Eric S Raymond has written a full version of battleships which is hosted in C [here](https://gitlab.com/esr/bs), circa 1987. The algorithm in this implementation is implemented in `esrbattle.m`.
 * There was a [StackOverflow competition](https://stackoverflow.com/questions/1631414/what-is-the-best-battleship-ai) on this game in 2009
 * [This blog post](http://datagenetics.com/blog/december32011/index.html) was a response to that competition
+* The probabilities were discussed on Reddit in [/r/compsci](https://www.reddit.com/r/compsci/comments/qb4dd/battleship_probability_theory_and_central_limit/) in 2013
 * The above blog post was referenced in [this Reddit post](https://www.reddit.com/r/dataisbeautiful/comments/emurd7/winning_at_battleship_using_probability_oc/) in 2020
 
